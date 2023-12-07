@@ -1,0 +1,11 @@
+html {
+  font-family: helvetica;
+}
+footer {
+  display: flex;
+  margin-top: 30%;
+}
+#content {
+  height: 60%;
+  
+}
